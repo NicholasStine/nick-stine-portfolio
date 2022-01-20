@@ -4,9 +4,9 @@
 ## The problem at hand
 
 I've got three primary problems that I'd like to solve with this portfolio
-    1. Can clients trust that I can actually do what I say I can do?
-    2. Are my UX/UI designs professional, and worth paying for?
-    3. How do I widen and shorten my sales funnel beyond the capabilities of freelance platforms (Upwork, Fivver, etc.)?
+1. Can clients trust that I can actually do what I say I can do?
+2. Are my UX/UI designs professional, and worth paying for?
+3. How do I widen and shorten my sales funnel beyond the capabilities of freelance platforms (Upwork, Fivver, etc.)?
 
 ## The action plan
 
@@ -14,16 +14,16 @@ I've got three primary problems that I'd like to solve with this portfolio
 If it's not already out of style, I'm definitely going to do a fancy carousel of my projects with links to different pages on the site showcasing some common requested skills on Upwork. If a carousel is played out, I need a creative way of showing off all my projects with mouse hover accenting for desktop and scroll position accenting for mobile.
 
 The skills I'd like to showcase include:
-    - Stripe Payment Integration
-    - Login Page with email / pass and the three big boys of oAuth; Google, Facebook and Apple
-    - Youtube API integration
-    - Facebook API integration
-    - Zoom API integration
-    - SOMETHING WITH CRYPTO
-    - Data and Statistics Visualization (probably a good chance to play with the NASA api's!!!)
-    - Lead Generation (content gates)
-    - Google Maps Integration
-    - Docker! Just write an article on how I dockerized this app and deployed it to Heroku!
+- Stripe Payment Integration
+- Login Page with email / pass and the three big boys of oAuth; Google, Facebook and Apple
+- Youtube API integration
+- Facebook API integration
+- Zoom API integration
+- SOMETHING WITH CRYPTO
+- Data and Statistics Visualization (probably a good chance to play with the NASA api's!!!)
+- Lead Generation (content gates)
+- Google Maps Integration
+- Docker! Just write an article on how I dockerized this app and deployed it to Heroku!
 
 
 ### UX / UI
