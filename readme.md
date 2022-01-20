@@ -33,11 +33,12 @@ I'd like to use a three color scheme, black, white, and an accent? Probably some
 Those portraits need to happen asap! I'm thinking I could probably get the ol' DSLR charged up and take some really fun and some more serious portraits to paint a full picture of what I'm about!
 
 Routing should be organized as follows
-#### '/' - The Landing Page
+```
+'/' - The Landing Page
 
-#### '/skills' - A showcase of portfolio projects
+'/skills' - A showcase of portfolio projects
 
-#### '/consultation' - A scheduling page, probably with zoom and calendarly integrations
+'/consultation' - A scheduling page, probably with zoom and calendarly integrations
 
-#### '/testimonials' - Real client feedback
-
+'/testimonials' - Real client feedback
+```
