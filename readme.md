@@ -32,6 +32,8 @@ I'd like to use a three color scheme, black, white, and an accent? Probably some
 
 Those portraits need to happen asap! I'm thinking I could probably get the ol' DSLR charged up and take some really fun and some more serious portraits to paint a full picture of what I'm about!
 
+I think that a scroll observer would be cool to reactively move the background color as the user scrolls up or down, with a github snippet of the current highlighted div linked in an absolute location on screen, probably the header, or a little floating bottom right corner action button like in an app.
+
 Routing should be organized as follows
 ```
 '/' - The Landing Page
