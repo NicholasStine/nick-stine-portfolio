@@ -9,11 +9,11 @@
                     p.text-center picture of me in the air with a laptop
                     h1.text-center.mt-5 I'm here to make it easy
             
-        b-container.m-3.mt-5
+        b-container.mt-5
             b-row
                 h2 What I bring to the table
-            b-row.mx-3.text-center(align-h="around")
-                ProjectCarousel
+            b-row
+                ProjectCarousel(direction="forward")
                 
         b-container.m-3.mt-5
             b-row(align-h="end")
